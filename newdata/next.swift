@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  next.swift
 //  newdata
 //
 //  Created by Jordan Williams on 5/3/15.
@@ -7,32 +7,27 @@
 //
 
 import UIKit
+//import Foundation
 
-class ViewController: UIViewController {
-
-    
-       // var myarray:[Int] = []
-    
-    
-   
-    
-    
-    // what was that
-    
+class next: UIViewController
+{
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
 
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
 }
-
